@@ -1,5 +1,5 @@
 # Aprende-a-programar-en-Python-3-jugando
-Aprende a programar en Python 3 jugando 
+Learn Python 3 by re-creating Classic Video Games / Aprende a programar en Python 3 re-creando video juegos clásicos:
 
 '''
 Aprende a programar en Python 3 jugando Pt1: https://www.youtube.com/watch?v=iSkUyfjIEH4
